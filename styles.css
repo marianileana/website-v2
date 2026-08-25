@@ -107,11 +107,10 @@
     font-size: 13px;
   }
   nav .container {
-    display: flex;
-    justify-content: space-between;
+    display: grid;
+    grid-template-columns: auto minmax(0, 1fr) auto;
     align-items: center;
     gap: 24px;
-    flex-wrap: wrap;
   }
   nav .prompt {
     color: var(--fg-dim);
@@ -135,8 +134,11 @@
 
   nav .links {
     display: flex;
+    justify-content: center;
     gap: 20px;
     list-style: none;
+    min-width: 0;
+    white-space: nowrap;
   }
   nav .links a {
     color: var(--fg-dim);
@@ -151,6 +153,7 @@
   nav .status {
     display: flex;
     align-items: center;
+    justify-self: end;
     gap: 14px;
     color: var(--fg-dim);
     font-size: 12px;
@@ -173,6 +176,15 @@
   nav .theme-toggle:hover, nav .lang-toggle:hover {
     color: var(--green);
     border-color: var(--green);
+  }
+  /* Keep toggle widths stable so EN/RO and dark/light never reflow the nav. */
+  nav .lang-toggle {
+    width: 62px;
+    justify-content: center;
+  }
+  nav .theme-toggle {
+    width: 72px;
+    justify-content: center;
   }
   nav .lang-toggle .lang-on  { color: var(--green); font-weight: 500; }
   nav .lang-toggle .lang-off { color: var(--fg-faint); }
@@ -1080,6 +1092,22 @@
   }
 
   /* ─── responsive ───────────────────────────────────── */
+  /* Drop the decorative prompt before space becomes tight, while keeping
+     navigation and controls on one stable row. */
+  @media (max-width: 1100px) {
+    nav .prompt { display: none; }
+    nav .container { grid-template-columns: minmax(0, 1fr) auto; gap: 16px; }
+    nav .links { justify-content: flex-start; gap: 14px; }
+  }
+
+  /* On narrower screens, keep the controls fixed on one row and hide the
+     section links rather than allowing the bar to jump to a second line. */
+  @media (max-width: 760px) {
+    nav .links { display: none; }
+    nav .container { grid-template-columns: 1fr; }
+    nav .status { justify-self: end; }
+  }
+
   @media (max-width: 900px) {
     .container { padding: 0 20px; }
     nav .container { gap: 12px; }
