@@ -1,6 +1,6 @@
 # marianileana.ro
 
-Personal academic website of Marian Ileana — PhD candidate in Computer Science at the National University of Science and Technology POLITEHNICA Bucharest, Pitești University Center.
+Personal academic website of Marian Ileana - PhD candidate in Computer Science at the National University of Science and Technology POLITEHNICA Bucharest, Pitești University Center.
 
 ## About
 
