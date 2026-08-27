@@ -72,7 +72,7 @@
       'con.meta': '8 channels',
       'ch.email': 'email',
       'ch.cv': 'curriculum vitae',
-      'con.msg': 'i read everything that lands at <a href="mailto:marianileana95@gmail.com">marianileana95@gmail.com</a>. <span class="it">write me.</span>',
+      'con.msg': 'i read everything that lands at <a href="mailto:contact@marianileana.ro">contact@marianileana.ro</a>. <span class="it">write me.</span>',
       'foot.loc': 'pitești · ro'
     },
     ro: {
