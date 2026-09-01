@@ -45,7 +45,7 @@
       'res.k3': 'real-time data · hl7 fhir · healthcare systems',
       'res.k4': 'bibliometric mapping · co-authorship · citation networks',
 
-      'pub.meta': '41 papers · h9 · 221 cit.',
+      'pub.meta': '42 papers · h10 · 227 cit.',
       'idx.note': 'B / C / D: thesis venue classification · quartiles per latest JCR / Scopus release',
       'pub.f.all': '--all',
       'pub.f.j': '--journal',
@@ -55,7 +55,7 @@
       'pub.s.year': '--by-year',
       'pub.s.cites': '--by-cites',
 
-      'coll.meta': '14 co-authors · 41 papers',
+      'coll.meta': '14 co-authors · 42 papers',
       'coll.papers': 'papers',
       'coll.r1.aff': 'St. Cyril & St. Methodius University · Veliko Tarnovo · Bulgaria',
       'coll.r2.aff': 'St. Cyril & St. Methodius University · Veliko Tarnovo · Bulgaria',
@@ -66,7 +66,7 @@
       'coll.r7.aff': '„Angel Kanchev" University of Ruse · Bulgaria',
       'coll.r8.aff': '„Alexandru Ioan Cuza" University of Iași · Faculty of Law',
       'coll.others': 'single co-publications',
-      'coll.note': 'recurring collaboration with the Veliko Tarnovo group (Petrov & Milev) spans 18 of 41 papers.',
+      'coll.note': 'recurring collaboration with the Veliko Tarnovo group (Petrov & Milev) spans 19 of 42 papers.',
 
       'cv': 'cv.pdf',
       'con.meta': '8 channels',
@@ -120,7 +120,7 @@
       'res.k3': 'date în timp real · hl7 fhir · sisteme medicale',
       'res.k4': 'mapare bibliometrică · co-autorat · rețele de citări',
 
-      'pub.meta': '41 lucrări · h9 · 221 cit.',
+      'pub.meta': '42 lucrări · h10 · 227 cit.',
       'idx.note': 'B / C / D: clasificarea venue-urilor din teză · cuartile conform ultimei ediții JCR / Scopus',
       'pub.f.all': '--toate',
       'pub.f.j': '--jurnal',
@@ -130,7 +130,7 @@
       'pub.s.year': '--după-an',
       'pub.s.cites': '--după-citări',
 
-      'coll.meta': '14 coautori · 41 lucrări',
+      'coll.meta': '14 coautori · 42 lucrări',
       'coll.papers': 'lucrări',
       'coll.r1.aff': 'Universitatea „Sf. Chiril și Metodiu" · Veliko Tarnovo · Bulgaria',
       'coll.r2.aff': 'Universitatea „Sf. Chiril și Metodiu" · Veliko Tarnovo · Bulgaria',
@@ -141,13 +141,13 @@
       'coll.r7.aff': 'Universitatea „Angel Kanchev" din Ruse · Bulgaria',
       'coll.r8.aff': 'Universitatea „Alexandru Ioan Cuza" din Iași · Facultatea de Drept',
       'coll.others': 'co-publicații izolate',
-      'coll.note': 'colaborarea recurentă cu grupul de la Veliko Tarnovo (Petrov & Milev) cuprinde 18 din 41 de lucrări.',
+      'coll.note': 'colaborarea recurentă cu grupul de la Veliko Tarnovo (Petrov & Milev) cuprinde 19 din 42 de lucrări.',
 
       'cv': 'cv.pdf',
       'con.meta': '8 canale',
       'ch.email': 'email',
       'ch.cv': 'curriculum vitae',
-      'con.msg': 'citesc tot ce ajunge la <a href="mailto:marianileana95@gmail.com">marianileana95@gmail.com</a>. <span class="it">scrie-mi.</span>',
+      'con.msg': 'citesc tot ce ajunge la <a href="mailto:contact@marianileana.ro">contact@marianileana.ro</a>. <span class="it">scrie-mi.</span>',
       'foot.loc': 'pitești · ro'
     }
   };
