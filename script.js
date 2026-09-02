@@ -13,11 +13,11 @@
       'nav.contact': 'contact',
 
       'hero.role': 'phd_researcher · politehnica_bucharest · pitesti_university_center',
-      'hero.focus': 'i work on distributed systems that are too complex to test by hand.<br/>the tools i build learn how a healthy system behaves, then flag the<br/>failures that written tests never think to look for.'t catch.',
+      'hero.focus': 'i work on distributed systems that are too complex to test by hand.<br/>the tools i build learn how a healthy system behaves, then flag the<br/>failures that written tests never think to look for.',
       'hero.meta.pubs': 'PUBLICATIONS',
       'hero.meta.cites': 'CITATIONS',
       'hero.meta.based': 'BASED_IN',
-      'hero.meta.based.val': 'pitești, ro',
+      'hero.meta.based.val': 'pitesti, ro',
       'hero.meta.fields': 'FIELDS',
       'hero.meta.defense': 'DEFENSE',
 
@@ -73,7 +73,7 @@
       'ch.email': 'email',
       'ch.cv': 'curriculum vitae',
       'con.msg': 'i read everything that lands at <a href="mailto:contact@marianileana.ro">contact@marianileana.ro</a>. <span class="it">write me.</span>',
-      'foot.loc': 'pitești · ro'
+      'foot.loc': 'pitesti · ro'
     },
     ro: {
       'status': 'online',
