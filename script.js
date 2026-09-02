@@ -13,7 +13,7 @@
       'nav.contact': 'contact',
 
       'hero.role': 'phd_researcher · politehnica_bucharest · pitesti_university_center',
-      'hero.focus': 'my work sits at the seam of distributed systems and machine learning:<br/>automated test harnesses that learn what "normal" looks like, then<br/>surface the anomalies that conventional assertions can\'t catch.',
+      'hero.focus': 'i work on distributed systems that are too complex to test by hand.<br/>the tools i build learn how a healthy system behaves, then flag the<br/>failures that written tests never think to look for.'t catch.',
       'hero.meta.pubs': 'PUBLICATIONS',
       'hero.meta.cites': 'CITATIONS',
       'hero.meta.based': 'BASED_IN',
@@ -69,7 +69,7 @@
       'coll.note': 'recurring collaboration with the Veliko Tarnovo group (Petrov & Milev) spans 19 of 42 papers.',
 
       'cv': 'cv.pdf',
-      'con.meta': '8 channels',
+      'con.meta': '9 channels',
       'ch.email': 'email',
       'ch.cv': 'curriculum vitae',
       'con.msg': 'i read everything that lands at <a href="mailto:contact@marianileana.ro">contact@marianileana.ro</a>. <span class="it">write me.</span>',
@@ -88,7 +88,7 @@
       'nav.contact': 'contact',
 
       'hero.role': 'doctorand · politehnica_bucurești · centrul_universitar_pitești',
-      'hero.focus': 'cercetez la intersecția sistemelor web distribuite cu machine learning:<br/>dezvolt instrumente automate de testare care învață modelul normal de<br/>funcționare al sistemului, pentru a identifica anomaliile invizibile pentru<br/>verificările tradiționale.',
+      'hero.focus': 'lucrez cu sisteme distribuite prea complexe ca să fie testate manual.<br/>instrumentele pe care le construiesc învață cum se comportă un sistem<br/>sănătos și semnalează defecțiunile la care testele scrise nu se gândesc.',
       'hero.meta.pubs': 'PUBLICAȚII',
       'hero.meta.cites': 'CITĂRI',
       'hero.meta.based': 'LOCALIZAT_ÎN',
@@ -144,7 +144,7 @@
       'coll.note': 'colaborarea recurentă cu grupul de la Veliko Tarnovo (Petrov & Milev) cuprinde 19 din 42 de lucrări.',
 
       'cv': 'cv.pdf',
-      'con.meta': '8 canale',
+      'con.meta': '9 canale',
       'ch.email': 'email',
       'ch.cv': 'curriculum vitae',
       'con.msg': 'citesc tot ce ajunge la <a href="mailto:contact@marianileana.ro">contact@marianileana.ro</a>. <span class="it">scrie-mi.</span>',
